@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="StoredCredential" type="AUTO_DETECTED" />
       <mapping pattern="openapi.yaml" type="AUTO_DETECTED" />
+      <mapping pattern="docker-compose production.yml" type="AUTO_DETECTED" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
